@@ -1,8 +1,8 @@
 # project-database
 
-nama:Mukhtada al khadar
-nim:D0224332
-kelas: D informatika
+--nama:Mukhtada al khadar
+--nim:D0224332
+--kelas: D informatika
 
 MariaDB [(none)]> CREATE DATABASE toko;
 Query OK, 1 row affected (0.005 sec)
